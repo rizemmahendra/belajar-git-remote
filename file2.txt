@@ -1,2 +1,1 @@
 ini file2.txt
-menambahkan file 2
