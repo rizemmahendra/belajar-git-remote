@@ -1,3 +1,4 @@
 ini file2.txt
 Feature2
 Feature A
+Feature C
